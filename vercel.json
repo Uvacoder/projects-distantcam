@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "alias": "projects.distantcam.vercel.app",
   "rewrites": [
     { "source": "/images/(.*)", "destination": "https://raw.githubusercontent.com/projects-distantcam/projects.distantcam.vercel.app/master/images/$1" }
   ]
